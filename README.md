@@ -16,3 +16,7 @@
 ## 二、 实习玩耍
 ### 230526出发去北京
 ![test](230526出发去北京/test.jpg "test"){:height="50%" width="50%"}
+
+<img src="230526出发去北京/test.jpg" width="400px">
+
+[link](./230526%E5%87%BA%E5%8F%91%E5%8E%BB%E5%8C%97%E4%BA%AC/)
