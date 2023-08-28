@@ -21,6 +21,7 @@
 <img src="./IMG_20230611_163621.jpg" width="400px">
 
 天安门广场彩虹横跨长安街,我认为是最美的画卷
+
 <img src="./IMG_20230611_165834.jpg" width="400px">
 
 <img src="./IMG_20230611_170147.jpg" width="400px">
@@ -37,6 +38,7 @@
 <img src="./IMG_20230611_171636.jpg" width="400px">
 
 国家博物馆,可惜三个月来没有抢到票
+
 <img src="./IMG_20230611_171703.jpg" width="400px">
 
 <img src="./IMG_20230611_171808.jpg" width="400px">
@@ -44,9 +46,11 @@
 <img src="./IMG_20230611_172038.jpg" width="400px">
 
 国贸大厦
+
 <img src="./IMG_20230611_181146.jpg" width="400px">
 
 梅兰芳大戏院
+
 <img src="./IMG_20230611_191218.jpg" width="400px">
 
 
